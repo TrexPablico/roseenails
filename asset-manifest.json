@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/roseenails/static/css/main.5bda9046.css",
+    "main.js": "/roseenails/static/js/main.7349bd30.js",
+    "static/media/Slider1.jpg": "/roseenails/static/media/Slider1.937ffc5550fe1ab157c0.jpg",
+    "static/media/Uv.png": "/roseenails/static/media/Uv.ec1716136dbb2b56f3e6.png",
+    "static/media/card3.jpg": "/roseenails/static/media/card3.6b65ed11bb1930f498d8.jpg",
+    "static/media/card5.jpg": "/roseenails/static/media/card5.bcfaf9f223605de20bac.jpg",
+    "static/media/card2.jpg": "/roseenails/static/media/card2.58981589fd1eef4892f3.jpg",
+    "static/media/Slider3.jpg": "/roseenails/static/media/Slider3.c6f1a4da6cad89db55b0.jpg",
+    "static/media/Slider4.jpg": "/roseenails/static/media/Slider4.71e02e19c029670d57d2.jpg",
+    "static/media/Slider8.jpg": "/roseenails/static/media/Slider8.08ee0788c88ca2173dec.jpg",
+    "static/media/Nail4.jpg": "/roseenails/static/media/Nail4.4c220d2586c79ab9e3a3.jpg",
+    "static/media/Slider7.jpg": "/roseenails/static/media/Slider7.dd0e4b8c43f2a44b765f.jpg",
+    "static/media/Slider11.jpg": "/roseenails/static/media/Slider11.0fd22eb7f7c98c6773ac.jpg",
+    "static/media/Manicure.png": "/roseenails/static/media/Manicure.b13ac34594d2cd317ef9.png",
+    "static/media/Slider9.jpg": "/roseenails/static/media/Slider9.4f4628e74d8f6f4c9810.jpg",
+    "static/media/Slider2.jpg": "/roseenails/static/media/Slider2.64231c37147ebb619621.jpg",
+    "static/media/Slider6.jpg": "/roseenails/static/media/Slider6.3a9b2073c1c286afc538.jpg",
+    "static/media/Slider10.jpg": "/roseenails/static/media/Slider10.fc042a933167a977c3e8.jpg",
+    "static/media/Slider5.jpg": "/roseenails/static/media/Slider5.9cbbe3c1afda3a47a62b.jpg",
+    "static/media/Nails.png": "/roseenails/static/media/Nails.2cd855b1c00493e935a1.png",
+    "static/media/Nail2.jpg": "/roseenails/static/media/Nail2.0ccb70a923f9d67029fd.jpg",
+    "static/media/Nail5.jpg": "/roseenails/static/media/Nail5.9a33a03cf7170fa5fd87.jpg",
+    "static/media/Nail3.jpg": "/roseenails/static/media/Nail3.afe7778ec92cb300afd8.jpg",
+    "static/media/Nail1.jpg": "/roseenails/static/media/Nail1.ad02c2c324174217ee84.jpg",
+    "index.html": "/roseenails/index.html",
+    "main.5bda9046.css.map": "/roseenails/static/css/main.5bda9046.css.map",
+    "main.7349bd30.js.map": "/roseenails/static/js/main.7349bd30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bda9046.css",
+    "static/js/main.7349bd30.js"
+  ]
+}

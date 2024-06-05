@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/roseenails/static/css/main.5bda9046.css",
-    "main.js": "/roseenails/static/js/main.7349bd30.js",
+    "main.css": "/roseenails/static/css/main.24aa0226.css",
+    "main.js": "/roseenails/static/js/main.51470141.js",
     "static/media/Slider1.jpg": "/roseenails/static/media/Slider1.937ffc5550fe1ab157c0.jpg",
     "static/media/Uv.png": "/roseenails/static/media/Uv.ec1716136dbb2b56f3e6.png",
     "static/media/card3.jpg": "/roseenails/static/media/card3.6b65ed11bb1930f498d8.jpg",
@@ -25,11 +25,11 @@
     "static/media/Nail3.jpg": "/roseenails/static/media/Nail3.afe7778ec92cb300afd8.jpg",
     "static/media/Nail1.jpg": "/roseenails/static/media/Nail1.ad02c2c324174217ee84.jpg",
     "index.html": "/roseenails/index.html",
-    "main.5bda9046.css.map": "/roseenails/static/css/main.5bda9046.css.map",
-    "main.7349bd30.js.map": "/roseenails/static/js/main.7349bd30.js.map"
+    "main.24aa0226.css.map": "/roseenails/static/css/main.24aa0226.css.map",
+    "main.51470141.js.map": "/roseenails/static/js/main.51470141.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bda9046.css",
-    "static/js/main.7349bd30.js"
+    "static/css/main.24aa0226.css",
+    "static/js/main.51470141.js"
   ]
 }

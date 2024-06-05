@@ -39,8 +39,9 @@ const Slides = () => {
         <h3 className="text-4xl md:text-6xl font-bold">
           Get Your Nails Done With Us
         </h3>
-        <p className="text-2xl py-6">Lorem ipsum dolor sit amet.</p>
-        <p className="pb-6">Lorem ipsum dolor sit amet consectetur.</p>
+        <p className="text-2xl py-6">
+          Click the button below and set an appointment via fb messenger.
+        </p>
         <div>
           <a
             href="https://www.facebook.com/profile.php?id=61556814742222"
